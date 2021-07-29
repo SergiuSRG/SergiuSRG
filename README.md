@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SergiuSRG
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Pythong, Salesforce, Tableau
+- 🌱 I’m currently learning Python, Salesforce, Tableau
 
 <!---
 SergiuSRG/SergiuSRG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
